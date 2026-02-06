@@ -41,17 +41,6 @@ The application follows a modular "Mission Control" architecture:
 ---
 *Developed for the next generation of deep space exploration.*
 
-
----
-
-## 🎓 Academic Use
-
-This project is suitable for:
-- Academic demonstrations
-- Web technology projects
-- Space science visualization concepts
-- Portfolio and resume showcase
-
 ---
 
 # space_mission_planner
