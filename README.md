@@ -41,5 +41,46 @@ The application follows a modular "Mission Control" architecture:
 ---
 *Developed for the next generation of deep space exploration.*
 
+
+---
+
+## 🌌 References & Inspiration
+
+This project is inspired by publicly available resources and documentation from **NASA (National Aeronautics and Space Administration)**:
+
+- NASA Open Data Portal  
+  https://data.nasa.gov
+
+- NASA Space Mission Concepts  
+  https://www.nasa.gov/missions
+
+- NASA Jet Propulsion Laboratory (JPL)  
+  https://www.jpl.nasa.gov
+
+- NASA Eyes on the Solar System  
+  https://eyes.nasa.gov
+
+These resources provide conceptual insight into real-world mission planning, orbital mechanics, and space exploration workflows.
+
+---
+
+## 🎓 Academic Use
+
+This project is suitable for:
+- Academic demonstrations
+- Web technology projects
+- Space science visualization concepts
+- Portfolio and resume showcase
+
+---
+
+## 🙌 Acknowledgements
+
+Special thanks to:
+- NASA for open-access educational resources
+- The open-source community
+- Modern web tooling ecosystems
+
+
 # space_mission_planner
-651957cddb2649c7fc0144f0043f831ee9d80ec8
+
