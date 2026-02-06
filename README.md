@@ -1,3 +1,4 @@
+
 # SLS Mission Commander (STELRIS)
 
 An advanced mission planning and telemetry simulation dashboard for the NASA Space Launch System (SLS). Designed for Chief Flight Architects to model mission profiles, validate engineering constraints against ESD-30000, and simulate real-time telemetry downlinks.
@@ -39,3 +40,6 @@ The application follows a modular "Mission Control" architecture:
 
 ---
 *Developed for the next generation of deep space exploration.*
+
+# space_mission_planner
+651957cddb2649c7fc0144f0043f831ee9d80ec8
