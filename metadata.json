@@ -1,0 +1,6 @@
+
+{
+  "name": "Space Mission Planner",
+  "description": "A mission planning and telemetry simulation dashboard for the Space Launch System (SLS). Features local data persistence, mission validation against ESD 30000 constraints, and AI-powered mission analysis.",
+  "requestFramePermissions": []
+}
